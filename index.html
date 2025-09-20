@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHiFT Codes</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Arial', sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; padding: 20px; display: flex; justify-content: center; align-items: center; }
+        .container { background: white; border-radius: 20px; padding: 40px; box-shadow: 0 20px 40px rgba(0,0,0,0.1); max-width: 500px; width: 100%; text-align: center; }
+        h1 { color: #2c3e50; margin-bottom: 30px; font-size: 2.5em; }
+        .code-box { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 15px; margin: 20px 0; position: relative; }
+        .code-text { font-family: 'Courier New', monospace; font-size: 1.3em; font-weight: bold; margin-bottom: 20px; word-break: break-all; line-height: 1.4; }
+        .copy-btn { background: rgba(255,255,255,0.2); border: 2px solid white; color: white; padding: 12px 25px; border-radius: 25px; cursor: pointer; font-weight: bold; font-size: 1em; transition: all 0.3s; margin: 5px; }
+        .copy-btn:hover { background: rgba(255,255,255,0.3); transform: scale(1.05); }
+        .copied-message { color: #90EE90; font-weight: bold; margin-left: 10px; display: none; }
+        .timer-container { background: #f8f9fa; padding: 25px; border-radius: 15px; margin: 25px 0; }
+        .status { color: #27ae60; font-weight: bold; font-size: 1.2em; margin-bottom: 15px; }
+        .expiry-info { color: #666; margin-bottom: 15px; line-height: 1.5; }
+        .expiry-time { color: #e74c3c; font-weight: bold; font-size: 1.2em; margin: 10px 0; }
+        #countdown { font-size: 2em; font-weight: bold; color: #2c3e50; margin: 15px 0; }
+        .footer { color: #95a5a6; font-size: 0.9em; margin-top: 25px; }
+        .expired { background: linear-gradient(135deg, #ff6b6b 0%, #ff8e8e 100%); }
+        .expired-message { color: #ff4444; font-weight: bold; font-size: 1.5em; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎮 SHiFT Codes</h1>
+        <div id="codes-container"></div>
+        <div class="timer-container">
+            <div class="status" id="status">✅ Active - Expires:</div>
+            <div class="expiry-info">
+                <div id="expiry-date">Friday, September 19, 2025</div>
+                <div class="expiry-time" id="expiry-time">11:58:00 AM</div>
+            </div>
+            <div>
+                <div style="color: #7f8c8d; margin-bottom: 10px;">Time remaining:</div>
+                <div id="countdown">Loading countdown...</div>
+            </div>
+        </div>
+        <div class="footer">This page will automatically show expired when the time comes</div>
+    </div>
+
+    <script>
+        // ==================== CONFIGURATION SETTINGS ====================
+        // ONLY CHANGE THESE TWO VARIABLES:
+
+        // 1. PASTE YOUR CODES HERE (one per line)
+        const shiftCodes = [
+            "3ZXJB-53STT-56T3W-B3TT3-HTS95", // ← CHANGE ME!
+            "BSRT3-FTZBJ-K6BTW-JB3T3-WXT99"  // ← CHANGE ME!
+        ];
+
+        // 2. SET EXPIRATION DATE/TIME (Year, Month, Day, Hours, Minutes, Seconds)
+        // Month: 0=Jan, 1=Feb, 2=Mar, ..., 8=Sep, 9=Oct, 10=Nov, 11=Dec
+        const expiryDate = new Date(2025, 8, 19, 11, 58, 0); // ← CHANGE ME!
+
+        // ========== DON'T CHANGE ANYTHING BELOW THIS LINE ==========
+        function formatDate(date) { const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']; return months[date.getMonth()] + ' ' + date.getDate() + ', ' + date.getFullYear(); }
+        function formatTime(date) { let hours = date.getHours(); let minutes = date.getMinutes(); const ampm = hours >= 12 ? 'PM' : 'AM'; hours = hours % 12; hours = hours ? hours : 12; minutes = minutes < 10 ? '0' + minutes : minutes; return hours + ':' + minutes + ':00 ' + ampm; }
+        function getDayOfWeek(date) { const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']; return days[date.getDay()]; }
+        function initializePage() {
+            document.getElementById('expiry-date').textContent = getDayOfWeek(expiryDate) + ', ' + formatDate(expiryDate);
+            document.getElementById('expiry-time').textContent = formatTime(expiryDate);
+            const codesContainer = document.getElementById('codes-container');
+            shiftCodes.forEach((code, index) => {
+                const codeBox = document.createElement('div');
+                codeBox.className = 'code-box';
+                codeBox.innerHTML = `<div class="code-text">${code}</div><button class="copy-btn" onclick="copyCode(${index})">📋 Copy Code</button><span class="copied-message" id="copied-${index}">✓ Copied!</span>`;
+                codesContainer.appendChild(codeBox);
+            });
+            updateCountdown();
+            setInterval(updateCountdown, 1000);
+        }
+        function updateCountdown() {
+            const now = new Date();
+            const timeLeft = expiryDate - now;
+            const countdownElement = document.getElementById('countdown');
+            const statusElement = document.getElementById('status');
+            const codesContainer = document.getElementById('codes-container');
+            const timerContainer = document.querySelector('.timer-container');
+            if (timeLeft <= 0) {
+                countdownElement.innerHTML = '<div class="
