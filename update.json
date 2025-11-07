@@ -1,7 +1,15 @@
 [
+    {
+"id": "Sorry About This.....",    
+"active": true, 
+"lastUpdateText": "Haters An Trolls",
+"buttonDate": "11/7/2025 - 11:13 pm EST",
+"messageTitle": "Things might be broken, working on it",
+"messageContent": "<b>Hey everyone,</b><br><br>So, I woke up to someone troll/dipshit which what they did harms no one, just annoying on my end... they looked at the code found the webhooks urls, where the sending codes/polls/feedback and such go to... an spammed discord links, hate msg, an just troll/hater type shit... with that again its not a big deal just annoying to purge and clear... So I didnt want to but the repo is now private and page is still public.<br><br><b>Had to pay for pro account</b><br>It sucks i had to do this, as any other way would change the url, breaking the site url you all know.. So haters/trolls screw you, cant spam the webhook urls now.. cause they all got redone and old ones deleted and out money cause of you so thanks.. thinking your cool/funny again your not and its lame what you did again hating on this so much to waste your time for a few mins of enjoyment smfh<br><br><b>So I am relinking things and checking things</b><br> Contact me on discord if something is really broke or use right report buttons plz."
+},
   {
 "id": "HMM.....",    
-"active": true, 
+"active": false, 
 "lastUpdateText": "HMM.....",
 "buttonDate": "11/3/2025 - 2:30 pm EST",
 "messageTitle": "A Note on Recent Changes and Moving Forward",
