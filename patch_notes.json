@@ -1,1 +1,23 @@
-
+[
+  {
+    "title": "Patch Notes: November 10, 2025",
+    "imageUrl": "https://raw.githubusercontent.com/xsmashx88x/-xsmashx88x/main/dlc/BP1.png",
+    "details": [
+      "**General Updates & Fixes:**",
+      "- Addressed a reported issue where performance would drop in the Fadefields.",
+      "- The 'Mercenary Day' event has now concluded. Thanks for playing!",
+      "",
+      "**Vault Hunter Adjustments:**",
+      "- **Amon:** Increased the damage of the 'Phaseflare' skill by 10%.",
+      "- **Harlowe:** Fixed a bug where the 'Big Guns' skill would not apply correctly to certain heavy weapons."
+    ]
+  },
+  {
+    "title": "Hotfix: November 3, 2025",
+    "imageUrl": "",
+    "details": [
+      "- Fixed a server stability issue that could cause disconnections during co-op play.",
+      "- The Community Challenge reward code for the 'Maliwannabee' skin has been extended."
+    ]
+  }
+]
