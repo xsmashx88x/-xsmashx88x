@@ -1,7 +1,7 @@
 [
   {
     "title": "Update Notes - November 6, 2025",
-    "imageUrl": "https://assets.2k.com/1a6ngf98576c/7MzB9DLjTS1eggk5akYsHO/561ab493eee7b361cc1443e0c607d417/BL4-Update-Nov6-2025.jpg",
+    "imageUrl": "",
     "details": [
       "**Change Notes:**",
       "- Forgeknight's Dragon's Breath passive and Exo-Soldier's First Impression passive have been adjusted to apply the bonus amount to each projectile.<br>○ Dev Note: These passives were previously applying their bonus to the total amount of damage, rather than applying to each projectile. This results in an increase in damage to both, and makes them work as intended with guns that fire multiple pellets. ",
