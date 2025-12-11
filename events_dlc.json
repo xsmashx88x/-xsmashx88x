@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": "current_bloomreaper",
+    "buttonText": "🔫 Free Raid Boss : Bloomreaper the Invincible 🔫<small><br>Dropped/Dropps : December 11, 2025</small>",
+    "imageUrl": "https://raw.githubusercontent.com/xsmashx88x/-xsmashx88x/main/dlc/Bloomreaper%20the%20Invincible-raidboss1free.jpeg",
+    "descriptionText": "<b>🆕 ICYMI : </b>Bloomreaper is a brand-new raid boss coming to Borderlands 4. Alongside it, there will also be a UVHM (Ultimate Vault Hunter Mode) increase, bringing a new challenge for players to dive into.<br><br><b>Bloomreaper :</b><ul><li><b>invincibles:</b> If you are familiar with 'invincibles' from the older games in the series, this will certainly ring a bell.</li><li><b>will be the first endgame raid boss in Borderlands 4.</b> While the name invincible may seem impossible to kill, know that they will be killable, but not easy. Here's what you can expect:<br>- Massive Health Pools<br>- Extremely Lethal Attack Damage<br>- New Modifiers</li></ul><br><b>Tips For Fighting : Bloomreaper :</b><ul><li><b>Vile:</b> Splash Damage</li><li><b>Flesh:</b> Incendairy Damage</li></ul><br><b>Drops From Bloomreaper : 5 dedicated legendary items</b><ul><li><b>Will Update:</b> Once I see whats dropping, So please give me a few : <br>Mantra : </li></ul>",
+    "customButtons": {}
+  },
+  {
+    "id": "past_mercenary",
+    "buttonText": "❄️How Rush Saved Mercenary Day❄️<small><br>Bounty Pack 1 | Dropped : November 20, 2025</small>",
+    "imageUrl": "https://raw.githubusercontent.com/xsmashx88x/-xsmashx88x/main/dlc/BP1.png",
+    "descriptionText": "<b>🆕 ICYMI : </b>Anyone who purchased the Deluxe Edition, Super Deluxe Edition, or Bounty Pack Bundle will receive a new, fifth Bounty Pack in 2026 at no additional cost.<br><br><b>Type Of Content : </b><s>Paid DLC</s> Given Free |<i>Will update as more info,images come out</i><br><br><b>Narrative content :</b><ul><li><b>Story:</b> Players help Rush organize a 'Mercenary Day' celebration on Chyros, which is opposed by Minister Screw, the holiday-hating Minister of Culture.</li><li><b>Content:</b> Includes new main missions, enemies, and legendary loot.</li></ul><br><b>Vault Card rewards :</b><ul><li><b>Vault Card:</b> A permanent, non-expiring card that provides rewards through completing daily and weekly challenges..</li><li><b>Loot: 24 cosmetics to unlock and four pieces of rerollable gear</b><br>4 re-rollable weapons<br>4 Vault Hunter Heads<br>4 Vault Hunter Skins<br>5 Weapon Skins<br>5 Vehicle Skins<br>4 ECHO-4 Drone Skins<br>2 ECHO-4 Attachments </li></ul><br><b>Other earnable content :</b><ul><li><b>DigiRunner:</b> A new vehicle for the in-game mode.</li><li><b>Vault Hunter Skin:</b> A new cosmetic skin for a Vault Hunter.</li><li><b>ECHO-4 Skin:</b> A new cosmetic skin for the ECHO-4 drone.</li></ul>",
+    "customButtons": {}
+  }
+]
