@@ -1,4 +1,4 @@
-[
+const EXPIRED_CODES_DATA = [
 {
     code: "396J3-6ZJ9J-KRJTW-TJ3BT-XK5H9", //❌
     expires: createDate(2025, 12, 30, 11, 59, 0, 1),
