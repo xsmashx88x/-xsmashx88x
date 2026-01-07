@@ -533,4 +533,4 @@ description: '<b> Expired Now </b> <details><summary>Why Its Still Here</summary
         title: '1 Gold Key - Requires linked My2K Games account - <a href="https://shift.gearboxsoftware.com/associations" target="_blank">Associate Account</a>',
         icon: "https://raw.githubusercontent.com/xsmashx88x/-xsmashx88x/refs/heads/main/skullkey.gif"
     }   
-]
+];
