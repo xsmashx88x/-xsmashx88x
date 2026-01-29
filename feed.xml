@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Your Feed Name</title>
+  <link>https://github.com/yourusername/your-repo</link>
+  <description>A short description of what this feed is about.</description>
+  
+  <item>
+    <title>Your First Update</title>
+    <link>https://github.com/yourusername/your-repo/blob/main/update1.md</link>
+    <description>This is the content of your first update.</description>
+    <pubDate>Mon, 27 Jan 2026 12:00:00 GMT</pubDate>
+    <guid>https://github.com/yourusername/your-repo/update1</guid>
+  </item>
+
+  <!-- Add more <item> blocks here for new updates -->
+</channel>
+</rss>
