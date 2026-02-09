@@ -1,7 +1,15 @@
 [
+        {
+"id": "update 1.1",    
+"active": true, 
+"lastUpdateText": "Deadsite Updating",
+"buttonDate": "2/9/2026",
+"messageTitle": "Hope everyone has been good.",
+"messageContent": "<b>Eh Gamers </b><br><br>So Many of you proly think I am not or that I am done with the site, I am not... I still am dealing with stuff but as can see always update blackmarket info and post new keys once randy or studio does... I like you all hate how bad its become with randy now slowing down so much but eh it happens... Even tho I know this site is pretty much dead... As no one does buttons, few dono's i was getting are now stopped completely and even the background give away thing no one cares for so this all sucks :( <br> I am still doing the all year around background gifts to randoms peeps via > <a href='https://tally.so/r/LZ9NBJ'>CLICK ME FOR A CHANCE TO WIN A FREE BACKGROUND</a> An ovb custom ones for the tippers/supporters of me/site and that...<br><br>If i was to do another tool like this for other games would you use it?<br>"
+},  
 {
 "id": "update 1.0",    
-"active": true, 
+"active": false, 
 "lastUpdateText": "Whats Happening",
 "buttonDate": "1/10/2026T",
 "messageTitle": "Hope everyone has been good.",
