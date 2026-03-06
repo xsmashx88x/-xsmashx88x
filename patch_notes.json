@@ -1,5 +1,27 @@
 [
           {
+  "title": "Update Notes - March 5, 2026",
+  "imageUrl": "https://assets.2k.com/1a6ngf98576c/2PndkftM7pae99XllSj9Tv/70b19e234d75537d1d3b13b7529e31d2/BL4-Update-Mar5-2026.jpg",
+  "details": [
+    "**Pearlescent Gear & Loot Scaling**",
+    "- Updated the Pearlescent Eigenburst to drop at its intended rate",
+    "- Adjusted the scaling on Pearlescent drops in Ultimate Vault Hunter levels",
+    "- Dev Note: We have adjusted how often Pearlescent gear appears at higher Ultimate Vault Hunter levels to meet our goals for this top-tier rarity. The starting drop chance remains the same, but the way it scales as you level up has been tuned.",
+    "",
+    "**Bosses & Dedicated Rewards**",
+    "- Standardized dedicated loot reward chances across all bosses in the base game, Bounty Packs, and Invincible encounters",
+    "- Dev Note: With a new rarity now appearing in the wild, we’ve updated how bosses drop their loot to make things simpler. Bosses in the base game (including Invincibles) and all Bounty Packs now use the same drop rate for their dedicated items. This change does not impact Phosophene drop rates.",
+    "",
+    "**Enemies & Environment**",
+    "- Reduced the health of all Ordonite enemies’ spawned Clones by 25%; health for clones spawned by the final boss remains unchanged",
+    "- Ordonite Cannisters now have more weight to them to create a softer flight and landing; added extra glow to improve visibility",
+    "",
+    "**Please restart your game to ensure that the update goes through and to prevent connection errors in matchmaking**",
+    "- If you're encountering any issues, please [_contact 2K Support_](https://support.borderlands.com/hc/en-us/requests/new?ticket_form_id=32130122043795) for direct assistance. You can also read the [_PC Troubleshooting Guide_](https://support.borderlands.com/hc/en-us/articles/44493923901971-Borderlands-4-PC-Troubleshooting-and-Optimization-Guide), a list of [_known issues_](https://support.borderlands.com/hc/en-us/community/topics), or [_browse a list of Support threads here_](https://support.borderlands.com/hc/en-us/sections/39799542385299-Tech-Tinkering-Tips)",
+    "- **View Them Here** https://borderlands.2k.com/borderlands-4/update-notes/"
+  ]
+},
+          {
   "title": "Update Notes - Feb 26, 2026",
   "imageUrl": "https://assets.2k.com/1a6ngf98576c/2wivUEpKzn9Pnuj86UfAMg/b8accee5a5cb43f598a48731a6f946d0/BL4-Update-Feb26-2025.jpg",
   "details": [
