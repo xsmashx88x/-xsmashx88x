@@ -3,31 +3,7 @@
     "id": "roadmap_2026",
     "buttonText": "ROAD MAP ISH📅<small><br>Borderlands 4: 2026 Overview</small>",
     "imageUrl": "https://raw.githubusercontent.com/xsmashx88x/-xsmashx88x/main/otherish/2026roadmap.png",
-    "descriptionText": "<b>Borderlands 4: 2026 Roadmap Overview</b><br><br>" +
-                      "As we kick off 2026, we're excited to share what's coming to Kairos. This year, we’re focusing on major content drops while continuing to refine the base game with features like cross-save and shared account progression.<br>" +
-                      "Our first Major Update of the year is now live, featuring the highly requested Photo Mode, plus balance changes and refinements.<br><br>" +
-                      "<b>Bounty Pack 2 & Story Pack 1</b><br>" +
-                      "<ul>" +
-                      "<li><b>Bounty Pack 2: Legend of the Stone Demon (February):</b> Includes a new mission, Legendary loot, and a themed Vault Card. Introduces <b>Pearlescent Gear</b>—a new rarity tier superior to Legendary.</li>" +
-                      "<li><b>Story Pack 1: Mad Ellie and the Vault of the Damned (March):</b> Introduces a brand-new region focused on cosmic horror, new story missions, and the first new Vault Hunter: <b>C4SH</b>.</li>" +
-                      "<li><b>New Vault Hunter: C4SH:</b> A former casino dealer bot turned drifter using probability-breaking Action Skills.</li>" +
-                      "</ul><br>" +
-                      "<b>Upcoming Features & Endgame</b><br>" +
-                      "<ul>" +
-                      "<li><b>Level Cap Increase:</b> Future updates will increase the level cap for all players.</li>" +
-                      "<li><b>Cross-Platform Saves & Shared Progression:</b> Seamlessly play on any platform and share SDU/Map progress across characters.</li>" +
-                      "<li><b>New Raid Boss & Takedown (Q2 2026):</b> Formidable endgame challenges with top-tier loot.</li>" +
-                      "</ul><br>" +
-                      "<b>Update Schedule</b><br>" +
-                      "<ul>" +
-                      "<li><b>Major Updates (Monthly):</b> New content, large balance changes, and performance fixes.</li>" +
-                      "<li><b>Minor Updates (Weekly):</b> Small fixes and refreshes for Maurice’s Black Market and Boss activities.</li>" +
-                      "</ul><br>" +
-                      "<b>Support & Community</b><br>" +
-                      "<ul>" +
-                      "<li>If you're encountering issues, please <a href='https://support.borderlands.com/hc/en-us/requests/new?ticket_form_id=32130122043795' target='_blank'>contact 2K Support</a>.</li>" +
-                      "<li><a href='https://borderlands.2k.com/borderlands-4/update-notes/' target='_blank'>View Full Notes Here</a></li>" +
-                      "</ul>",
+    "descriptionText": "<b>Borderlands 4: 2026 Roadmap Overview</b><br><br>As we kick off 2026, we're excited to share what's coming to Kairos. This year, we’re focusing on major content drops while continuing to refine the base game with features like cross-save and shared account progression.<br>Our first Major Update of the year is now live, featuring the highly requested Photo Mode, plus balance changes and refinements.<br><br><b>Bounty Pack 2 & Story Pack 1</b><br><ul><li><b>Bounty Pack 2: Legend of the Stone Demon (February):</b> Includes a new mission, Legendary loot, and a themed Vault Card. Introduces <b>Pearlescent Gear</b>—a new rarity tier superior to Legendary.</li><li><b>Story Pack 1: Mad Ellie and the Vault of the Damned (March):</b> Introduces a brand-new region focused on cosmic horror, new story missions, and the first new Vault Hunter: <b>C4SH</b>.</li><li><b>New Vault Hunter: C4SH:</b> A former casino dealer bot turned drifter using probability-breaking Action Skills.</li></ul><br><b>Upcoming Features & Endgame</b><br><ul><li><b>Level Cap Increase:</b> Future updates will increase the level cap for all players.</li><li><b>Cross-Platform Saves & Shared Progression:</b> Seamlessly play on any platform and share SDU/Map progress across characters.</li><li><b>New Raid Boss & Takedown (Q2 2026):</b> Formidable endgame challenges with top-tier loot.</li></ul><br><b>Update Schedule</b><br><ul><li><b>Major Updates (Monthly):</b> New content, large balance changes, and performance fixes.</li><li><b>Minor Updates (Weekly):</b> Small fixes and refreshes for Maurice’s Black Market and Boss activities.</li></ul><br><b>Support & Community</b><br><ul><li>If you're encountering issues, please <a href='https://support.borderlands.com/hc/en-us/requests/new?ticket_form_id=32130122043795' target='_blank'>contact 2K Support</a>.</li><li><a href='https://borderlands.2k.com/borderlands-4/update-notes/' target='_blank'>View Full Notes Here</a></li></ul>",
     "customButtons": {}
-}
+  }
 ]
