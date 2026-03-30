@@ -1,6 +1,7 @@
 const EXPIRED_CODES_DATA = [
   {
         code: "No Code",
+    expires: createDate(2025, 12, 30, 11, 59, 0, 1),
         title: 'Discord  |  Borderlands Bundles + Single Items',
         description:'Click On Shop, Look for the Borderlands 4 Image or Scroll down and will find it. <br>Items Range from $10.99CAD to $5.99CAD Being The Lowest<br><br>NO ETA ON WHEN IT GOES AWAY, COULD BE A WEEK OR MONTH OR MONTHS FROM NOW<br><br> [Click the preview button to see video of the effects]',        
         dateAdded: "9/26/2025",
@@ -243,7 +244,7 @@ const EXPIRED_CODES_DATA = [
     },
                     {
         code: "TZR3T-JZJKJ-WXJTC-T33TB-RFCFR", //❌
-        expires: "2025-10-20", // 
+        expires: createDate(2025, 12, 31, 1, 42, 0, 1), //  
 description: '<b> Expired Now </b> <details><summary>Why Its Still Here</summary><p>🧑‍🦰Randy does mess up expire times so<br>🚨key should be expired <br> ⚠️ Some Reported as Expired <br> ✅ Verified Working by Admin <br> ❗Tho SMASH Will Update This Soon <br> (He checks often, As it may now show expired when at testing time it didnt, this wont be up long if it truly shows expired on shift)</p></details>',
         title: '1 Gold Key - <a href="https://x.com/DuvalMagic/status/1979656181175271889" target="_blank">Via Twit</a>',
         dateAdded: "2025-10-18",
@@ -253,7 +254,7 @@ description: '<b> Expired Now </b> <details><summary>Why Its Still Here</summary
     },
                     {
         code: "3S6TT-CZJWT-WXJT5-3B3BJ-JS3JZ", //❌
-        expires: "2025-10-20", // 
+        expires: createDate(2025, 12, 31, 1, 42, 0, 1), // 
 description: '<b> Expired Now </b> <details><summary>Why Its Still Here</summary><p>🧑‍🦰Randy does mess up expire times so<br>🚨key should be expired <br> ⚠️ Some Reported as Expired <br> ✅ Verified Working by Admin <br> ❗Tho SMASH Will Update This Soon <br> (He checks often, As it may now show expired when at testing time it didnt, this wont be up long if it truly shows expired on shift)</p></details>',
         title: '1 Gold Key - <a href="https://x.com/DuvalMagic/status/1979656181175271889" target="_blank">Via Twit</a>',
         dateAdded: "2025-10-18",
@@ -263,7 +264,7 @@ description: '<b> Expired Now </b> <details><summary>Why Its Still Here</summary
     },
                     {
         code: "J96BJ-RZJWB-C6TJC-BBJJJ-5B5W9", //❌
-        expires: "2025-10-20", //  
+        expires: createDate(2025, 12, 31, 1, 42, 0, 1), //  
 description: '<b> Expired Now </b> <details><summary>Why Its Still Here</summary><p>🧑‍🦰Randy does mess up expire times so<br>🚨key should be expired <br> ⚠️ Some Reported as Expired <br> ✅ Verified Working by Admin <br> ❗Tho SMASH Will Update This Soon <br> (He checks often, As it may now show expired when at testing time it didnt, this wont be up long if it truly shows expired on shift)</p></details>',
         title: '1 Gold Key - <a href="https://x.com/DuvalMagic/status/1979656181175271889" target="_blank">Via Twit</a>',
         dateAdded: "2025-10-18",
