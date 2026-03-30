@@ -1,1 +1,43 @@
-
+{
+  "version": "3.15",
+  "updatedDate": "3/30/2026",
+  "goldenKeys":[
+    {
+      "code": "THX3B-H9FCW-CRBT5-BBJ3T-SXT65",
+      "expires": "UED",
+      "title": "1 Gold Key - | Ellies DLC",
+      "description": "Good Luck, Happy Looting",
+      "dateAdded": "2026-3-27",
+      "icon": "https://raw.githubusercontent.com/xsmashx88x/-xsmashx88x/refs/heads/main/skullkey.gif",
+      "showReportButton": true,
+      "showCopyButton": true
+    }
+  ],
+  "skins":[
+    {
+      "code": "J963B-S66WK-56J3K-JJT3T-BF9T5",
+      "title": "Luck of the Kairish Vault Hunter skin",
+      "description": "For All Four Hunters!",
+      "dateAdded": "3/16/2026",
+      "icon": "https://raw.githubusercontent.com/xsmashx88x/-xsmashx88x/refs/heads/main/bl4icon%20(GitHub%20icon).png",
+      "showCopyButton": true,
+      "showPreviewButton": true,
+      "showReportButton": true,
+      "imagePreview": "https://files.catbox.moe/4yfppx.png",
+      "expires": "2030-12-31T00:00:00"
+    }
+  ],
+  "blackMarket":[
+    {
+      "code": "Black Market Vendor",
+      "title": "Maurices Black Market - Refreshes every Thursday at 12:00 PM EDT",
+      "icon": "https://raw.githubusercontent.com/xsmashx88x/-xsmashx88x/refs/heads/main/MauricesBlackMarket.png",
+      "description": "Elpis Orbital Shatterfield...",
+      "dateAdded": "2/5/2026",
+      "showCopyButton": false,
+      "showPreviewButton": false,
+      "staticImageLocation": "https://raw.githubusercontent.com/xsmashx88x/-xsmashx88x/main/Weekly%20Big%20Encore%20Boss/encore_skyspanner_location.png",
+      "type": "weekly-vendor"
+    }
+  ]
+}
