@@ -1,5 +1,22 @@
 [
     {
+  "title": "Minor Update Notes - April 2, 2026",
+  "imageUrl": "https://assets.2k.com/1a6ngf98576c/6zVqLM6gNZb7CzRVxPmW5I/1f4602d78b7e8b82c7f14de560ff42f9/BL4-Update-Apr2-2026.jpg",
+  "details":[
+    "This Minor Update includes an update to C4SH's Vampiric Touch Card, Nightmare Rift Boss activities being visible on the map, and a new set of Weekly Activities.",
+    "",
+    "**Change Notes**",
+    "- [**_C4SH, the Rogue_**](https://borderlands.2k.com/borderlands-4/game-info/vault-hunters/c4sh/) - Updated the Vampiric Touch Card granted by the Bet on Red Augment to automatically kill non-Badass enemies on impact as intended",
+    "- Nightmare Rift Bosses are now visible on the ECHO menu map to help you spot those activities!",
+    "- Addressed a reported crash that could occur when loading into specific areas of The Whispering Glacier",
+    "- Addressed variables in some languages on C4SH's skill tree to make them easier to read",
+    "",
+    "**Please restart your game to ensure that the update goes through and to prevent connection errors in matchmaking**",
+    "- If you're encountering any issues, please [_contact 2K Support_](https://support.borderlands.com/hc/en-us/requests/new?ticket_form_id=32130122043795) for direct assistance. You can also read the [_PC Troubleshooting Guide_](https://support.borderlands.com/hc/en-us/articles/44493923901971-Borderlands-4-PC-Troubleshooting-and-Optimization-Guide), a list of [_known issues_](https://support.borderlands.com/hc/en-us/community/topics), or [_browse a list of Support threads here_](https://support.borderlands.com/hc/en-us/sections/39799542385299-Tech-Tinkering-Tips)",
+    "- **View Them Here** https://borderlands.2k.com/borderlands-4/update-notes/"
+  ]
+},
+    {
   "title": "Major Update Notes - March 26, 2026",
   "imageUrl": "https://assets.2k.com/1a6ngf98576c/kXVVy1uvn3nqoYa63EwkD/3ce0c4b70996a5affc55d1e47b8f54d5/BL4-Update-Mar26-2026.jpg",
   "details": [
