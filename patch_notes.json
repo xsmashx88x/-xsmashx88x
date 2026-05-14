@@ -1,5 +1,23 @@
 [
 {
+  "title": "Weekly Update Notes - May 14, 2026",
+  "imageUrl": "https://assets.2k.com/1a6ngf98576c/741bOEU2CeWe2EVmBwD3YL/2ba8aa851279f8cc9397019a803ea759/BL4-Update-May14-2026.jpg",
+  "details": [
+    "This Weekly Update includes more gear balancing changes for Grenade Ordnance, as well as our first-ever Quadruple Threat for Big Encore Bosses! Consider this a Birthday Boss Bash for Robby, the designer who sets up Weekly Big Encore Bosses and wanted to celebrate by slaying some Fadefields favorites.",
+    "",
+    "**Change Notes**",
+    "",
+    "* **Daedalus Assault Rifle Mercredi** is now properly scaling with increases to Gun Damage and Assault Rifle damage",
+    "* **Ripper Grenade Buoy** has received a +150% damage increase",
+    "**Dev Note:** The activation range and proximity check has proven to not be as practical in combat as we were targeting. As a result, we’ve added a dramatic increase to the damage to better fit players using it as a short-range burst of damage.",
+    "* **Ripper Grenade Jelly** damage has increased by +30%",
+    "* **Daedalus Grenade Buzz Axe** damage has increased by +50%",
+    "* **Maliwan Grenade Destructo Disco** base damage has increased by +50% and increased damage from its unique ability, Groove, by +100%",
+    "* **Jakobs Grenade Spinning Blade** damage has increased by +200%",
+    "**Dev Note:** We acknowledge the skill test required to catch the knife after landing a hit, and have increased the damage dramatically to reward the gameplay loop."
+  ]
+},  
+{
   "title": "Weekly Update Notes - May 7, 2026",
   "imageUrl": "https://assets.2k.com/1a6ngf98576c/1CsKiDNSa7jkM3yjeMmdeu/f9e0e90318861e23152286685e6f66c6/BL4-Update-May7-2026.jpg",
   "details": [
